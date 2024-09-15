@@ -7,7 +7,7 @@
 
 ### Operating Systems
 
-- **A comparative study of CPU Scheduling Algorithm**
+- **A comparative study of CPU Scheduling Algorithm**   
   [Neetu Goel, Dr. R.B. Garg](https://arxiv.org/pdf/1307.4165)
   *International Journal of Graphics & Image Processing |Vol 2|issue 4|November 2012*
   Provides a comparative study of FIFO, SJF, Round-Robin and Priority Scheduling Algorithms. The metrics used for comparison are Turnaround Time and Waiting Time.
